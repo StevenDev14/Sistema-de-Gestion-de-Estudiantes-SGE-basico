@@ -1,2 +1,2 @@
-# Sistema-de-Gesti-n-de-Estudiantes-SGE-b-sico
+#Sistema de Gestión de Estudiantes (SGE) básico
 Proyecto para la materia Algoritmos y programación
